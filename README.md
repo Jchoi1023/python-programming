@@ -1,6 +1,6 @@
 CIS 41A Python Programming - Spring 2024
-Instructor: Mirsaeid Abolghasemi
-Email: abolghasemimirsaeid@fhda.edu (For any questions, students should message me on Canvas, not email). Class hours: Days: TTh | Time: 03:30 PM - 05:20 PM - The recorded videos will be posted on Canvas Office hours: Tuesday 6 PM - 7 PM - Zoom online meeting - The link will be posted on Canvas
+
+
 Description:
 A complete introduction to the Python language. Topics covered include: primitive and collection data types, operators and statements, loops and branching, functions and variable scoping, modules and packages, object oriented programming, file handling, regular expressions and exception handling
 Student Learning Outcome Statements (SLO):
